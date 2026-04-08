@@ -8,7 +8,7 @@ warnings.filterwarnings("ignore")
 import numpy as np
 import pandas as pd
 import yfinance as yf
-import pandas_ta as ta
+import pandas_ta_classic as ta
 import streamlit as st
 
 # ══════════════════════════════════════════════════════════════════
