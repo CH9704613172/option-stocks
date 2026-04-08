@@ -87,7 +87,7 @@ NIFTY_OPTION_STOCKS = [
 #  SIDEBAR — CONFIG
 # ══════════════════════════════════════════════════════════════════
 with st.sidebar:
-    st.markdown("## ⚙️ Configuration")
+    st.markdown("## ⚙️ Conditions")
 
     MA_FAST           = st.number_input("MA Fast (days)", value=50, min_value=5, max_value=200)
     MA_SLOW           = st.number_input("MA Slow (days)", value=252, min_value=50, max_value=500)
