@@ -1,7 +1,5 @@
-streamlit==1.44.1
-pandas==2.2.3
-numpy==1.26.4
-yfinance==0.2.54
-pandas-ta==0.3.14b0
-scipy==1.15.2
-pytz==2025.1
+streamlit
+pandas
+numpy
+yfinance
+pandas-ta-classic
