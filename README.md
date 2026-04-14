@@ -1,4 +1,4 @@
-📈 Nifty Options Screener v5
+📈 Nifty Options Screener 
 
 A high-probability options trading screener built using Python + Streamlit, designed to identify actionable trade setups in Nifty F&O stocks using multi-indicator confirmation and price action logic.
 
